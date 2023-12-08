@@ -1,2 +1,2 @@
 
-# it is a comment ropo build by gitalk
+# it is a comment repo build by gitalk
